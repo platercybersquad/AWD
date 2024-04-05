@@ -1,0 +1,7 @@
+dane logowania pracowników firmy:
+
+Anna Nowak ; login:anna_nowak ; hasło: annanowak123
+Piotr Szymański ; login: piotr_szymanski ; hasło: piotrszymanski123
+Paweł Dąbrowski ; login: pawel_dabrowski ; hasło: paweldabrowski123
+Wojciech Torbus ; login: wojciech_torbus ; hasło: wojciechtorbus123
+Ola Szewczyk ; login: ola_szewczyk ; hasło: olaszewczyk123

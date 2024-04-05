@@ -1,0 +1,1 @@
+Aby zalogowac sie do aplikacji nalezy uzyc ktorys z danych pracownikow podanych w drugim pliku tekstowym.
